@@ -1,6 +1,6 @@
 # Nievethan Thanienayagam
 
-**Software Engineering Student**
+**Software Engineering Student**/n
 **Ontario Tech University**
 
 I enjoy learning new things and aim, to not only master my craft, but to broaden my knowledge as I dive in to the technological atmosphere.
