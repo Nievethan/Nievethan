@@ -1,5 +1,5 @@
 # Nievethan Thanienayagam
-I enjoy learning new things and aim, to not only master my craft, but to broaden my knowledge as I dive in to the technological atmosphere. I believe that if you understand how something is supposed to work, you can fix it. I strive to always learn new things and I am always ready to adapt. I hope to become successful in my career and regarded as one who is good at what they do.
+An ambitious and passionate problem solver; I believe if you can think it, you can create it. I plan to further my skills by demonstrating these characteristics in a software development co-op.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nievethan-thanienayagam/) 
 
