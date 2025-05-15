@@ -32,7 +32,7 @@ An ambitious and passionate problem solver; I believe if you can think it, you c
 ![Next.js](https://img.shields.io/badge/Next.js-303030?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 
-#### 🛠️ Backend:
+#### Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff)
