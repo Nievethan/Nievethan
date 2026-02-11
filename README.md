@@ -1,5 +1,5 @@
 # Nievethan Thanienayagam
-An ambitious and passionate problem solver; I believe if you can think it, you can create it. I plan to further my skills by demonstrating these characteristics in a software development co-op.
+An ambitious and passionate problem solver; I believe if you can think it, you can create it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nievethan-thanienayagam/) 
 
